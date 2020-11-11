@@ -54,7 +54,9 @@ All vendors should be selected through the Request for Proposal (RFP) process. V
 
 Budgets for all events will be developed based on vendor and venue proposals along with forecasted revenue. Global Event budgets shall be presented to the Board of Directors for its approval no later than 16 months prior to the start of the conference. If the forecasted expenses are greater than $5,000, Regional and Local Events must submit their budget as part of the Event Application Process. Once approved by the Executive Director, or their designatee, the Foundation will be the sole executor of instruments that contractually and financially obligate the OWASP Foundation to execute events.
 
-Budget categories will minimally include:
+Download Regional Events Budget Shell 
+
+If the event already has a detailed budget, that may be submitted in luei of completing the budget shell. Budget categories will minimally include:
 
 ```
 Income
